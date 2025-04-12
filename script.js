@@ -1,4 +1,4 @@
-const apiKey = "15a7e9e3a2eba96e77be3765e0ef75d6";
+const apiKey = "ENTER_YOUR_OPENWEATHERMAP_API_KEY_HERE";
 
 function enterKey(event){
     if(event.key === "Enter"){
